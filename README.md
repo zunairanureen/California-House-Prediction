@@ -15,7 +15,6 @@ The California housing dataset consists of information about housing and populat
 - **Households**: The number of households in the district.
 - **Geographic Features**: Features such as proximity to the ocean and average household income.
 
-The dataset is available through the [California housing dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html) from the Scikit-Learn library.
 
 ## Methodology
 
